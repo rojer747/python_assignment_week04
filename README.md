@@ -1,1 +1,3 @@
-# python_assignment_week04
+# Python Assignment Week 04
+
+gorgai korkai
